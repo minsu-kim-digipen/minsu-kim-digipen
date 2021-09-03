@@ -1,5 +1,6 @@
 ### Welcome to My Github Profile! 👋
 
+- 🐻 Profile photo is my bear doll~ 
 - 🌱 I’m currently learning C++ in Digipen!
 - 📫 How to reach me: rumia0528@naver.com || Discord : Rumyamyamyang#4754
 
