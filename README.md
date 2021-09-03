@@ -1,7 +1,7 @@
-### Welcome to My github Profile! 👋
+### Welcome to My Github Profile! 👋
 
 - 🌱 I’m currently learning C++ in Digipen!
-- 📫 How to reach me: rumia0528@naver.com || mski0528@gmail.com
+- 📫 How to reach me: rumia0528@naver.com || Discord : Rumyamyamyang#4754
 
 - - -
 
