@@ -14,8 +14,4 @@
 - [Baekjoon](https://www.acmicpc.net/user/rumia0528) / [solve.ac](https://solved.ac/profile/rumia0528)
 
 ### Digipen Matrials
-<deatils>
-<summary>Private gist</summary>
-  
 [Link for private Gist](https://gist.github.com/minsu-kim-digipen/bd44b496314244df1dee0aeed7981748)
-</details>
