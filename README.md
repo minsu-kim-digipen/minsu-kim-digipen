@@ -1,7 +1,7 @@
 ### Welcome to My Github Profile! 👋
 
 - 🐻 Profile photo is my bear doll~ 
-- 🌱 I’m currently learning C++ in Digipen[!](https://gist.github.com/minsu-kim-digipen/bd44b496314244df1dee0aeed7981748) 
+- 🌱 I’m currently learning C++ in Digipen[!](https://github.com/minsu-kim-digipen/Digipen-Compliation) 
 - 📫 How to reach me: rumia0528@naver.com || Discord : Rumyamyamyang#4754
 
 - - -
